@@ -1,0 +1,24 @@
+{
+  "name": "json-viewer",
+  "version": "1.0.0",
+  "description": "Use these underthehood.",
+  "main": "jsonTreeViewer.js",
+  "scripts": {
+    "start": "serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/summerstyle/jsonTreeViewer.git"
+  },
+  "keywords": [],
+  "author": "Jayden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/summerstyle/jsonTreeViewer/issues"
+  },
+  "homepage": "https://github.com/summerstyle/jsonTreeViewer#readme",
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}
